@@ -418,7 +418,7 @@ This algorithm identifies emergent properties of our framework that arise from t
 
 We introduce a framework obsolescence predictor $O$:
 
-$$O(\Phi, t) = P(\Phi \text{ is obsolete} \mid \text{current\_state}, t)$$
+$$O(\Phi, t) = P(\Phi \text{ is obsolete} \mid \text{current_state}, t)$$
 
 This function estimates the probability that our framework will become obsolete given the current state of knowledge and a future time $t$, encouraging proactive updates.
 
