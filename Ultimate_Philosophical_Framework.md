@@ -472,7 +472,7 @@ Where $\Phi$ is our current framework, $T$ represents transformative technologie
 
 We develop a post-human ethics function $PE$:
 
-$$PE(\Phi_\text{ethics}, E_\text{post}) = \Phi_\text{ethics\_post}$$
+$$PE(\Phi_\text{ethics}, E_\text{post}) = \Phi_\text{ethics_post}$$
 
 Where $\Phi_\text{ethics}$ is our current ethical framework, $E_\text{post}$ represents post-human existential conditions, and $\Phi_\text{ethics\_post}$ is the resulting post-human ethical framework. This function extends our ethical considerations beyond traditional human limitations.
 
