@@ -227,7 +227,7 @@ Where $a_{ij}$ represents the relevance of philosophical concept $i$ to practica
 
 We develop an ethical decision-making algorithm $E(S, C, O)$:
 
-$$E(S, C, O) = \operatorname{argmax}_a \sum_i w_i \cdot U_i(a, S, C)$$
+$$E(S, C, O) = \underset{a}{\text{argmax}} \sum_i w_i \cdot U_i(a, S, C)$$
 
 Where:
 - $S$ = current state
