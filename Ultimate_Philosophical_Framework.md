@@ -76,7 +76,7 @@ Building upon our paradoxical and self-referential foundation, we now need to es
 4. **Entropy-Guided Integration:**
    For integrating new knowledge, we define an entropy-based integration function $I$:
    
-   $$I(\Phi, K) = \argmin_{\Phi'} (S(\Phi') \mid K \subset \Phi' \wedge \Phi \subset \Phi')$$
+ $$I(\Phi, K) = \underset{\Phi'}{\text{argmin}} (S(\Phi') \mid K \subset \Phi' \wedge \Phi \subset \Phi')$$
    
    Where $K$ is new knowledge, $\Phi'$ is a potential new state of the framework, and $S$ is an entropy function. This ensures that new knowledge is integrated in a way that minimizes cognitive entropy.
 
