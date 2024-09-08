@@ -1,3 +1,5 @@
+> **Warning**: The equations in this document have been converted to LaTeX format for improved readability. However, these conversions have not been verified for complete accuracy. The original versions of the equations can be found in the plain text version of this document. 
+
 # Ultimate Philosophical Framework
 
 ## 1. Establishing the Foundation of Infinite Recursion and Self-Reference
