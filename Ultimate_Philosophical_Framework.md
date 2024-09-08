@@ -1,4 +1,4 @@
-> **Warning**: The equations in this document have been converted to LaTeX format for improved readability. However, these conversions have not been verified for complete accuracy. The original versions of the equations can be found in the plain text version of this document. 
+> **Warning**: The equations in this document have been converted to LaTeX format for improved readability. However, these conversions are yet verified for complete accuracy. The original versions of the equations can be found in the plain text version of this document. 
 
 # Ultimate Philosophical Framework
 
