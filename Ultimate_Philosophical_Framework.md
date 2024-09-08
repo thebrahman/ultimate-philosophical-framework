@@ -528,7 +528,7 @@ This operator creates a meta-temporal philosophical framework that unifies past,
 
 We introduce an Omega Point convergence function $OP$:
 
-$$O(\Phi, t) = P(\Phi \text{ is obsolete} \mid \text{current_state}, t)$$
+$$OP(\Phi, t) = \lim_{t\to\infty} \Phi(t)$$
 
 This function models the potential convergence of our philosophical framework towards an ultimate state of understanding as $t$ approaches infinity.
 
